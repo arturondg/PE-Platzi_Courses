@@ -1,6 +1,8 @@
 # Python Basic
 
-This is my first course of Python. 
+This is my first course of Python in Platzi.
+1-Nov-2021
+https://platzi.com/p/ArturoNDG/curso/1937-course/diploma/detalle/
 
 #### Agenda:
 1. Introduction to Python programming
