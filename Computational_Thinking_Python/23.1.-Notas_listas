@@ -1,0 +1,60 @@
+>>> my_list =[1, 2, 3]
+>>> my_list[0]
+1
+>>> my_list[1:]
+[2, 3]
+>>> my_list.append(4)
+>>> my_list
+[1, 2, 3, 4]
+>>> my_list[0] = "a"
+>>> my_list
+['a', 2, 3, 4]
+>>> my_list.pop()
+4
+>>> my_list
+['a', 2, 3]
+>>> for element in my_list:
+...     print(element)
+... 
+a
+2
+3
+>>> a = [1, 2, 3]
+>>> my_list
+['a', 2, 3]
+>>> b = a
+>>> a
+[1, 2, 3]
+>>> b
+[1, 2, 3]
+>>> c = [a, b]
+>>> c
+[[1, 2, 3], [1, 2, 3]]
+>>> a.append(5)
+>>> c
+[[1, 2, 3, 5], [1, 2, 3, 5]]
+>>> a.pop()
+5
+>>> c
+[[1, 2, 3], [1, 2, 3]]
+>>> a.append(5)
+>>> a[3] = 4
+>>> c
+[[1, 2, 3, 4], [1, 2, 3, 4]]
+>>> 
+
+clonar con list()
+>>> a = [1, 2, 3]
+>>> b = a
+>>> c = list(a)
+>>> c
+[1, 2, 3]
+>>> a is b
+True
+>>> a is c
+False
+
+Clonar con slice
+>>> d = a[::]
+>>> a is d
+False

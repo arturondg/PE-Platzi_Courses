@@ -1,0 +1,72 @@
+----DICCIONARIOS----
+>>> my_dict = {
+...     'David': 34,
+...     'Erika': 32,
+...     'Jaime': 50,
+... }
+
+---OBTENER VALORES---
+>>> my_dict['David']
+34
+
+>>> my_dict['Erik']
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+KeyError: 'Erik'
+
+--VALORES CON GET--
+>>> my_dict.get('Juan', 30)
+30
+>>> my_dict.get('David', 30)
+34
+
+---REEMPLAZAR VALORES---
+>>> my_dict['Jaime'] = 20
+>>> my_dict
+{'David': 34, 'Erika': 32, 'Jaime': 20}
+
+---AÑADIR LLAVE CON VALOR---
+>>> my_dict['Pedro'] = 70
+>>> my_dict
+{'David': 34, 'Erika': 32, 'Jaime': 20, 'Pedro': 70}
+
+---BORRAR---
+>>> del my_dict['Jaime']
+>>> 
+>>> my_dict
+{'David': 34, 'Erika': 32, 'Pedro': 70}
+
+
+----ITERAR DICCIONARIOS----
+    --KEYS--
+>>> for llave in my_dict.keys():
+...     print(llave)
+... 
+David
+Erika
+Pedro
+
+    --VALUE--
+>>> for valor in my_dict.values():
+...     print(valor)
+... 
+34
+32
+70
+
+    --ITEMS--
+>>> for llave, valor in my_dict.items():
+...     print(llave, valor)
+... 
+David 34
+Erika 32
+Pedro 70
+
+
+----Comprobar llaves----
+>>> 'David' in my_dict
+True
+>>> 'Tom' in my_dict
+False
+
+
