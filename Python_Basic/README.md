@@ -1,7 +1,7 @@
 # Python Basic
-![Python Basic](/PE-Platzi_Courses/Assets/Python_Basic.png)
+![Python Basic](/Assets/Python_Basic.png)
 
-This is my first course of Python in Platzi.
+This is my first course of Python at Platzi.
 1-Nov-2021
 https://platzi.com/p/ArturoNDG/curso/1937-course/diploma/detalle/
 
