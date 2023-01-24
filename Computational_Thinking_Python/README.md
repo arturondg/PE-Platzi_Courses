@@ -2,7 +2,7 @@
 
 ![Computational Thinking Python](/Assets/Compu_Think_P.png)
 
-This course is part of the Platzi Mathematics Pathway. https://platzi.com/p/ArturoNDG/curso/1764-course/diploma/detalle/
+This course is part of the Platzi Mathematics Pathway. 21-Apr-2022 https://platzi.com/p/ArturoNDG/curso/1764-course/diploma/detalle/
 
 ### Agenda
 
