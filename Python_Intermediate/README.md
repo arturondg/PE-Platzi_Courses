@@ -1,5 +1,7 @@
 # Python Intermediate
 
+![Python Basic](/Assets/Python_Intermediate.png)
+
 Python's second course at Platzi at the time.   10-Nov-2021 | https://platzi.com/p/ArturoNDG/curso/2255-course/diploma/detalle/  
 In addition, both this course and the Python Basic course were part of a challenge.
 
