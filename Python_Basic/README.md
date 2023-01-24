@@ -1,4 +1,5 @@
 # Python Basic
+![Python Basic](/PE-Platzi_Courses/Assets/Python_Basic.png)
 
 This is my first course of Python in Platzi.
 1-Nov-2021
