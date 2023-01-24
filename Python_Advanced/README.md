@@ -1,5 +1,7 @@
 # Python Professional
 
+![Python Professional](/Assets/Python_Professional.png)
+
 This is the 3rd and final Python Course at least in introductory form. 20-Nov-2021  
 https://platzi.com/p/ArturoNDG/curso/2397-course/diploma/detalle/
 
