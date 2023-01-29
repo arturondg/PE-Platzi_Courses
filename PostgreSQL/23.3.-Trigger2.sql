@@ -1,0 +1,5 @@
+CREATE TRIGGER mitrigger
+AFTER INSERT 
+ON pasajeros
+FOR EACH ROW
+EXECUTE PROCEDURE impl();
