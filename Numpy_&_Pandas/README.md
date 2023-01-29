@@ -3,8 +3,8 @@
 ![Numpy & Pandas](/Assets/Numpy_&_Pandas.png)
 
 In this course, which is part of Data Analyst path, I learned general topics and handling of Numpy and Pandas libraries.
-In general, Jupyter Notebooks were used.
-https://platzi.com/p/ArturoNDG/curso/2912-course/diploma/detalle/
+In general, Jupyter Notebooks were used.  
+30-Sep-2022 | https://platzi.com/p/ArturoNDG/curso/2912-course/diploma/detalle/
 
 ### Agenda
 
