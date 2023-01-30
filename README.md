@@ -47,7 +47,7 @@ Mi práctica con Python no quedó solo en Platzi, pero pensé en darle cierto se
 Antes de comenzar con SQL, tomé un cursos de funadamentos de bases de datos, del cual no guardaba
 como tal mis queries pues era algo nuevo para mí, y también hubo notas que quizá no se visualicen bien  
 en GitHub.
-Realice varios diagramas ER como estos: [Diagrama ER - Platzi](https://lucid.app/lucidchart/3890d70b-1d20-442f-9b1f-57935f9b1db1/edit?viewport_loc=-616%2C59%2C3452%2C1575%2CsF-TR7~IzfSS&invitationId=inv_0f9a84c4-49ab-4bed-9b04-642513a7eff5)
+Como ejemplo realice varios diagramas ER como estos: [Diagrama ER - Platzi](https://lucid.app/lucidchart/3890d70b-1d20-442f-9b1f-57935f9b1db1/edit?viewport_loc=-616%2C59%2C3452%2C1575%2CsF-TR7~IzfSS&invitationId=inv_0f9a84c4-49ab-4bed-9b04-642513a7eff5)
 
 * [Curso de PostgreSQL](/PostgreSQL)
 * [Curso Práctico de SQL](/Practice_SQL)
