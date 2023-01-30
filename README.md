@@ -56,4 +56,4 @@ Realice varios diagramas ER como estos: [Diagrama ER - Platzi](https://lucid.app
 
 Como lo esxplique anteriormente, estos no son todos los cursos que complete o hice en ese tiempo,  
 más bien es una recopilación de lo que considero más importante, y mejor documentado, al menos en  
-mi experiencia.
+mi experiencia de ese momento.
